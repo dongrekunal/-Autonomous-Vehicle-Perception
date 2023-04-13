@@ -53,7 +53,7 @@ You can also use the provided colab notebook to automatically download all the w
 
 Simply open the following colab notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pandas-Team/Autonomous-Vehicle-Environment-Perception/blob/main/Instructions.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dongrekunal/Autonomous-Vehicle-Perception/blob/main/Final_Implementation.ipynb)
 
 ## Cited Works
 1. Yolov5 ([Github](https://github.com/ultralytics/yolov5))
@@ -72,4 +72,4 @@ Please download from [here](https://drive.google.com/uc?export=download&id=1-bRF
 
 
 ### Contact us
-Feel free to contact us via email or connect with us on linkedin.
+Feel free to contact us.
